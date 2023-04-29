@@ -1,4 +1,4 @@
-![21 Savage]
+21 Savage
 
 ## Installation
 
